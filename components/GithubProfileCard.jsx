@@ -35,6 +35,9 @@ const GithubProfileCard = ({ prof }) => {
 					</Row>
 				</div>
 			</Container>
+            <a href="#" className="btn-icon-only rounded-circle ml-auto btn btn-white mr-5">
+            <i class="fa-solid fa-arrow-up "></i>
+            </a>
 		</Card>
 	);
 };
